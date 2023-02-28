@@ -1,6 +1,6 @@
 # ISLR-2ndEd-python
 
-This repository contains Python code for a selection of tables, figures and LAB sections from the second edition of the book <A target="_blank" href='https://www.statlearning.com/'>'An Introduction to Statistical Learning with Applications in R'</A> by James, Witten, Hastie, Tibshirani (2013).<P>
+This repository contains python code for the lab exercises from the second edition of the book <A target="_blank" href='https://www.statlearning.com/'>'An Introduction to Statistical Learning with Applications in R'</A> by James, Witten, Hastie, Tibshirani (2013).<P>
 
  For **Bayesian data analysis** using PyMC3, take a look at <A href='https://github.com/JWarmenhoven/DBDA-python'>this repository</A>.
 
