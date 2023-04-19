@@ -16,10 +16,10 @@ This repository contains python code for the lab exercises from the second editi
 <A href='https://github.com/ehmtang/ISLR-2ndEd-python/blob/master/Notebooks/ch13-Multiple-Testing.ipynb'>Chapter 13 - Multiple Testing</A><P>
  
 ### References:
-James, G., Witten, D., Hastie, T., Tibshirani, R. (2013). <I>An Introduction to Statistical Learning with Applications in  R</I>,  Springer Science+Business Media, New York.
+James, G., Witten, D., Hastie, T., Tibshirani, R. (2021). <I>An Introduction to Statistical Learning with Applications in  R, Second Edition</I>,  Springer Science+Business Media, New York.
 https://www.statlearning.com/
 
-James, G., Witten, D., Hastie, T., Tibshirani, R. (2021). <I>An Introduction to Statistical Learning with Applications in  R, Second Edition</I>,  Springer Science+Business Media, New York.
+James, G., Witten, D., Hastie, T., Tibshirani, R. (2013). <I>An Introduction to Statistical Learning with Applications in  R</I>,  Springer Science+Business Media, New York.
 https://www.statlearning.com/
 
 Hastie, T., Tibshirani, R., Friedman, J. (2009). <I>Elements of Statistical Learning</I>, Second Edition, Springer Science+Business Media, New York.
